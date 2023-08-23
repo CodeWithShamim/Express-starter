@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "C:\\Users\\shami\\Downloads\\Project\\Express-starter\\logs\\winston\\successes\\.8f079ae9bd8cf12a922b450ca82555fac2d0dff1-audit.json",
-    "files": [
-        {
-            "date": 1692689011082,
-            "name": "C:\\Users\\shami\\Downloads\\Project\\Express-starter\\logs\\winston\\successes\\phu-2023-22-08-13-success.log",
-            "hash": "cd81bff40144189b9e4a0c8853eb05b2920e346eb91a1adcf466d98b63c9153f"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\shami\\Downloads\\Project\\Express-starter\\logs\\winston\\successes\\.8f079ae9bd8cf12a922b450ca82555fac2d0dff1-audit.json",
+  "files": [
+    {
+      "date": 1692689011082,
+      "name": "C:\\Users\\shami\\Downloads\\Project\\Express-starter\\logs\\winston\\successes\\phu-2023-22-08-13-success.log",
+      "hash": "cd81bff40144189b9e4a0c8853eb05b2920e346eb91a1adcf466d98b63c9153f"
+    }
+  ],
+  "hashType": "sha256"
 }
